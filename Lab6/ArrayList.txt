@@ -1,0 +1,57 @@
+ArrayList Test
+Insert time for arraylist, 10000 elements- 9505 ns
+Search time for arraylist, 10000 elements- 7156 ns
+Delete time for arraylist, 10000 elements- 11185 ns
+
+Insert time for arraylist, 20000 elements- 16163 ns
+Search time for arraylist, 20000 elements- 9704 ns
+Delete time for arraylist, 20000 elements- 13491 ns
+
+Insert time for arraylist, 30000 elements- 14697 ns
+Search time for arraylist, 30000 elements- 6109 ns
+Delete time for arraylist, 30000 elements- 10068 ns
+
+Insert time for arraylist, 40000 elements- 13841 ns
+Search time for arraylist, 40000 elements- 6785 ns
+Delete time for arraylist, 40000 elements- 10831 ns
+
+Insert time for arraylist, 50000 elements- 14019 ns
+Search time for arraylist, 50000 elements- 6127 ns
+Delete time for arraylist, 50000 elements- 14463 ns
+
+Insert time for arraylist, 60000 elements- 16764 ns
+Search time for arraylist, 60000 elements- 5938 ns
+Delete time for arraylist, 60000 elements- 18667 ns
+
+Insert time for arraylist, 70000 elements- 23752 ns
+Search time for arraylist, 70000 elements- 7413 ns
+Delete time for arraylist, 70000 elements- 21084 ns
+
+Insert time for arraylist, 80000 elements- 21717 ns
+Search time for arraylist, 80000 elements- 6361 ns
+Delete time for arraylist, 80000 elements- 21544 ns
+
+Insert time for arraylist, 90000 elements- 24359 ns
+Search time for arraylist, 90000 elements- 6121 ns
+Delete time for arraylist, 90000 elements- 23155 ns
+
+Insert time for arraylist, 100000 elements- 26202 ns
+Search time for arraylist, 100000 elements- 6451 ns
+Delete time for arraylist, 100000 elements- 26085 ns
+
+Insert time for arraylist, 200000 elements- 53485 ns
+Search time for arraylist, 200000 elements- 7164 ns
+Delete time for arraylist, 200000 elements- 51386 ns
+
+Insert time for arraylist, 300000 elements- 78492 ns
+Search time for arraylist, 300000 elements- 6572 ns
+Delete time for arraylist, 300000 elements- 78354 ns
+
+Insert time for arraylist, 400000 elements- 111807 ns
+Search time for arraylist, 400000 elements- 6763 ns
+Delete time for arraylist, 400000 elements- 115442 ns
+
+Insert time for arraylist, 500000 elements- 144830 ns
+Search time for arraylist, 500000 elements- 6653 ns
+Delete time for arraylist, 500000 elements- 142419 ns
+

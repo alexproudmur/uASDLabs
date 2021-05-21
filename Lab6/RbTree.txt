@@ -1,0 +1,76 @@
+RB Tree Test
+Insert time for RB Tree, 100000 elements- 441 ns
+Search time for RB Tree, 100000 elements- 183 ns
+Sort print time for RB Tree, 100000 elements- 38 ns
+
+Insert time for RB Tree, 200000 elements- 524 ns
+Search time for RB Tree, 200000 elements- 226 ns
+Sort print time for RB Tree, 200000 elements- 45 ns
+
+Insert time for RB Tree, 300000 elements- 632 ns
+Search time for RB Tree, 300000 elements- 172 ns
+Sort print time for RB Tree, 300000 elements- 42 ns
+
+Insert time for RB Tree, 400000 elements- 576 ns
+Search time for RB Tree, 400000 elements- 161 ns
+Sort print time for RB Tree, 400000 elements- 24 ns
+
+Insert time for RB Tree, 500000 elements- 690 ns
+Search time for RB Tree, 500000 elements- 178 ns
+Sort print time for RB Tree, 500000 elements- 51 ns
+
+Insert time for RB Tree, 600000 elements- 819 ns
+Search time for RB Tree, 600000 elements- 184 ns
+Sort print time for RB Tree, 600000 elements- 41 ns
+
+Insert time for RB Tree, 700000 elements- 771 ns
+Search time for RB Tree, 700000 elements- 144 ns
+Sort print time for RB Tree, 700000 elements- 49 ns
+
+Insert time for RB Tree, 800000 elements- 815 ns
+Search time for RB Tree, 800000 elements- 147 ns
+Sort print time for RB Tree, 800000 elements- 51 ns
+
+Insert time for RB Tree, 900000 elements- 820 ns
+Search time for RB Tree, 900000 elements- 143 ns
+Sort print time for RB Tree, 900000 elements- 54 ns
+
+Insert time for RB Tree, 1000000 elements- 1066 ns
+Search time for RB Tree, 1000000 elements- 136 ns
+Sort print time for RB Tree, 1000000 elements- 7 ns
+
+Insert time for RB Tree, 2000000 elements- 1212 ns
+Search time for RB Tree, 2000000 elements- 136 ns
+Sort print time for RB Tree, 2000000 elements- 66 ns
+
+Insert time for RB Tree, 3000000 elements- 1424 ns
+Search time for RB Tree, 3000000 elements- 144 ns
+Sort print time for RB Tree, 3000000 elements- 37 ns
+
+Insert time for RB Tree, 4000000 elements- 1487 ns
+Search time for RB Tree, 4000000 elements- 146 ns
+Sort print time for RB Tree, 4000000 elements- 35 ns
+
+Insert time for RB Tree, 5000000 elements- 1739 ns
+Search time for RB Tree, 5000000 elements- 158 ns
+Sort print time for RB Tree, 5000000 elements- 55 ns
+
+Insert time for RB Tree, 6000000 elements- 1796 ns
+Search time for RB Tree, 6000000 elements- 144 ns
+Sort print time for RB Tree, 6000000 elements- 62 ns
+
+Insert time for RB Tree, 7000000 elements- 2005 ns
+Search time for RB Tree, 7000000 elements- 147 ns
+Sort print time for RB Tree, 7000000 elements- 7 ns
+
+Insert time for RB Tree, 8000000 elements- 1924 ns
+Search time for RB Tree, 8000000 elements- 145 ns
+Sort print time for RB Tree, 8000000 elements- 20 ns
+
+Insert time for RB Tree, 9000000 elements- 2038 ns
+Search time for RB Tree, 9000000 elements- 144 ns
+Sort print time for RB Tree, 9000000 elements- 42 ns
+
+Insert time for RB Tree, 10000000 elements- 2168 ns
+Search time for RB Tree, 10000000 elements- 149 ns
+Sort print time for RB Tree, 10000000 elements- 13 ns

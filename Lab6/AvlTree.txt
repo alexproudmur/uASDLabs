@@ -1,0 +1,76 @@
+AVL Tree Test
+Insert time for AVL Tree, 100000 elements- 727 ns
+Search time for AVL Tree, 100000 elements- 337 ns
+Delete time for AVL Tree, 100000 elements- 321 ns
+
+Insert time for AVL Tree, 200000 elements- 297 ns
+Search time for AVL Tree, 200000 elements- 252 ns
+Delete time for AVL Tree, 200000 elements- 63 ns
+
+Insert time for AVL Tree, 300000 elements- 371 ns
+Search time for AVL Tree, 300000 elements- 199 ns
+Delete time for AVL Tree, 300000 elements- 40 ns
+
+Insert time for AVL Tree, 400000 elements- 397 ns
+Search time for AVL Tree, 400000 elements- 171 ns
+Delete time for AVL Tree, 400000 elements- 28 ns
+
+Insert time for AVL Tree, 500000 elements- 243 ns
+Search time for AVL Tree, 500000 elements- 225 ns
+Delete time for AVL Tree, 500000 elements- 44 ns
+
+Insert time for AVL Tree, 600000 elements- 308 ns
+Search time for AVL Tree, 600000 elements- 183 ns
+Delete time for AVL Tree, 600000 elements- 32 ns
+
+Insert time for AVL Tree, 700000 elements- 285 ns
+Search time for AVL Tree, 700000 elements- 173 ns
+Delete time for AVL Tree, 700000 elements- 46 ns
+
+Insert time for AVL Tree, 800000 elements- 470 ns
+Search time for AVL Tree, 800000 elements- 150 ns
+Delete time for AVL Tree, 800000 elements- 14 ns
+
+Insert time for AVL Tree, 900000 elements- 261 ns
+Search time for AVL Tree, 900000 elements- 150 ns
+Delete time for AVL Tree, 900000 elements- 15 ns
+
+Insert time for AVL Tree, 1000000 elements- 282 ns
+Search time for AVL Tree, 1000000 elements- 332 ns
+Delete time for AVL Tree, 1000000 elements- 22 ns
+
+Insert time for AVL Tree, 2000000 elements- 250 ns
+Search time for AVL Tree, 2000000 elements- 176 ns
+Delete time for AVL Tree, 2000000 elements- 9 ns
+
+Insert time for AVL Tree, 3000000 elements- 246 ns
+Search time for AVL Tree, 3000000 elements- 149 ns
+Delete time for AVL Tree, 3000000 elements- 7 ns
+
+Insert time for AVL Tree, 4000000 elements- 222 ns
+Search time for AVL Tree, 4000000 elements- 150 ns
+Delete time for AVL Tree, 4000000 elements- 6 ns
+
+Insert time for AVL Tree, 5000000 elements- 237 ns
+Search time for AVL Tree, 5000000 elements- 149 ns
+Delete time for AVL Tree, 5000000 elements- 6 ns
+
+Insert time for AVL Tree, 6000000 elements- 242 ns
+Search time for AVL Tree, 6000000 elements- 148 ns
+Delete time for AVL Tree, 6000000 elements- 6 ns
+
+Insert time for AVL Tree, 7000000 elements- 242 ns
+Search time for AVL Tree, 7000000 elements- 171 ns
+Delete time for AVL Tree, 7000000 elements- 5 ns
+
+Insert time for AVL Tree, 8000000 elements- 210 ns
+Search time for AVL Tree, 8000000 elements- 147 ns
+Delete time for AVL Tree, 8000000 elements- 5 ns
+
+Insert time for AVL Tree, 9000000 elements- 203 ns
+Search time for AVL Tree, 9000000 elements- 152 ns
+Delete time for AVL Tree, 9000000 elements- 5 ns
+
+Insert time for AVL Tree, 10000000 elements- 230 ns
+Search time for AVL Tree, 10000000 elements- 183 ns
+Delete time for AVL Tree, 10000000 elements- 6 ns

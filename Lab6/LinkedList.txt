@@ -1,0 +1,56 @@
+LinkedList Test
+Insert time for linked list, 10000 elements- 461 ns
+Search time for linked list, 10000 elements- 8639 ns
+Delete time for linked list, 10000 elements- 54 ns
+
+Insert time for linked list, 20000 elements- 90 ns
+Search time for linked list, 20000 elements- 12436 ns
+Delete time for linked list, 20000 elements- 10 ns
+
+Insert time for linked list, 30000 elements- 21 ns
+Search time for linked list, 30000 elements- 13785 ns
+Delete time for linked list, 30000 elements- 4 ns
+
+Insert time for linked list, 40000 elements- 16 ns
+Search time for linked list, 40000 elements- 15215 ns
+Delete time for linked list, 40000 elements- 9 ns
+
+Insert time for linked list, 50000 elements- 17 ns
+Search time for linked list, 50000 elements- 16578 ns
+Delete time for linked list, 50000 elements- 4 ns
+
+Insert time for linked list, 60000 elements- 14 ns
+Search time for linked list, 60000 elements- 15830 ns
+Delete time for linked list, 60000 elements- 4 ns
+
+Insert time for linked list, 70000 elements- 13 ns
+Search time for linked list, 70000 elements- 15681 ns
+Delete time for linked list, 70000 elements- 4 ns
+
+Insert time for linked list, 80000 elements- 14 ns
+Search time for linked list, 80000 elements- 16344 ns
+Delete time for linked list, 80000 elements- 7 ns
+
+Insert time for linked list, 90000 elements- 14 ns
+Search time for linked list, 90000 elements- 16128 ns
+Delete time for linked list, 90000 elements- 5 ns
+
+Insert time for linked list, 100000 elements- 14 ns
+Search time for linked list, 100000 elements- 16853 ns
+Delete time for linked list, 100000 elements- 5 ns
+
+Insert time for linked list, 200000 elements- 15 ns
+Search time for linked list, 200000 elements- 16783 ns
+Delete time for linked list, 200000 elements- 4 ns
+
+Insert time for linked list, 300000 elements- 16 ns
+Search time for linked list, 300000 elements- 17203 ns
+Delete time for linked list, 300000 elements- 4 ns
+
+Insert time for linked list, 400000 elements- 6 ns
+Search time for linked list, 400000 elements- 17433 ns
+Delete time for linked list, 400000 elements- 3 ns
+
+Insert time for linked list, 500000 elements- 5 ns
+Search time for linked list, 500000 elements- 17778 ns
+Delete time for linked list, 500000 elements- 3 ns

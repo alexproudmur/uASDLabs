@@ -1,0 +1,105 @@
+Binary Search Tree Test
+Insert time for BST, 100000 elements- 289 ns
+Search time for BST, 100000 elements- 174 ns
+Delete time for BST, 100000 elements- 137 ns
+
+Sort print time for BST, 100000 elements- 0 ns
+
+Insert time for BST, 200000 elements- 208 ns
+Search time for BST, 200000 elements- 132 ns
+Delete time for BST, 200000 elements- 33 ns
+
+Sort print time for BST, 200000 elements- 0 ns
+
+Insert time for BST, 300000 elements- 165 ns
+Search time for BST, 300000 elements- 153 ns
+Delete time for BST, 300000 elements- 21 ns
+
+Sort print time for BST, 300000 elements- 0 ns
+
+Insert time for BST, 400000 elements- 147 ns
+Search time for BST, 400000 elements- 134 ns
+Delete time for BST, 400000 elements- 18 ns
+
+Sort print time for BST, 400000 elements- 0 ns
+
+Insert time for BST, 500000 elements- 162 ns
+Search time for BST, 500000 elements- 129 ns
+Delete time for BST, 500000 elements- 13 ns
+
+Sort print time for BST, 500000 elements- 0 ns
+
+Insert time for BST, 600000 elements- 125 ns
+Search time for BST, 600000 elements- 109 ns
+Delete time for BST, 600000 elements- 10 ns
+
+Sort print time for BST, 600000 elements- 0 ns
+
+Insert time for BST, 700000 elements- 188 ns
+Search time for BST, 700000 elements- 127 ns
+Delete time for BST, 700000 elements- 9 ns
+
+Sort print time for BST, 700000 elements- 0 ns
+
+Insert time for BST, 800000 elements- 136 ns
+Search time for BST, 800000 elements- 140 ns
+Delete time for BST, 800000 elements- 10 ns
+
+Sort print time for BST, 800000 elements- 0 ns
+
+Insert time for BST, 900000 elements- 179 ns
+Search time for BST, 900000 elements- 160 ns
+Delete time for BST, 900000 elements- 9 ns
+
+Sort print time for BST, 900000 elements- 0 ns
+
+Insert time for BST, 1000000 elements- 175 ns
+Search time for BST, 1000000 elements- 164 ns
+Delete time for BST, 1000000 elements- 8 ns
+
+Sort print time for BST, 1000000 elements- 0 ns
+
+Insert time for BST, 2000000 elements- 135 ns
+Search time for BST, 2000000 elements- 111 ns
+Delete time for BST, 2000000 elements- 5 ns
+Sort print time for BST, 2000000 elements- 0 ns
+
+Insert time for BST, 3000000 elements- 126 ns
+Search time for BST, 3000000 elements- 110 ns
+Delete time for BST, 3000000 elements- 4 ns
+Sort print time for BST, 3000000 elements- 0 ns
+
+Insert time for BST, 4000000 elements- 126 ns
+Search time for BST, 4000000 elements- 113 ns
+Delete time for BST, 4000000 elements- 4 ns
+Sort print time for BST, 4000000 elements- 0 ns
+
+Insert time for BST, 5000000 elements- 123 ns
+Search time for BST, 5000000 elements- 109 ns
+Delete time for BST, 5000000 elements- 4 ns
+Sort print time for BST, 5000000 elements- 0 ns
+
+Insert time for BST, 6000000 elements- 125 ns
+Search time for BST, 6000000 elements- 110 ns
+Delete time for BST, 6000000 elements- 3 ns
+Sort print time for BST, 6000000 elements- 0 ns
+
+Insert time for BST, 7000000 elements- 118 ns
+Search time for BST, 7000000 elements- 111 ns
+Delete time for BST, 7000000 elements- 3 ns
+Sort print time for BST, 7000000 elements- 0 ns
+
+Insert time for BST, 8000000 elements- 142 ns
+Search time for BST, 8000000 elements- 107 ns
+Delete time for BST, 8000000 elements- 3 ns
+Sort print time for BST, 8000000 elements- 0 ns
+
+Insert time for BST, 9000000 elements- 126 ns
+Search time for BST, 9000000 elements- 133 ns
+Delete time for BST, 9000000 elements- 3 ns
+Sort print time for BST, 9000000 elements- 0 ns
+
+Insert time for BST, 10000000 elements- 125 ns
+Search time for BST, 10000000 elements- 122 ns
+Delete time for BST, 10000000 elements- 3 ns
+Sort print time for BST, 10000000 elements- 0 ns
